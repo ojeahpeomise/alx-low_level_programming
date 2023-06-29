@@ -1,6 +1,8 @@
+#include <stdlib.h>
 #include <time.h>
 /**
- * main - generate random numbers
+ * main - defines the state of numbers
+ *
  * Return: 0
  */
 int main(void)
