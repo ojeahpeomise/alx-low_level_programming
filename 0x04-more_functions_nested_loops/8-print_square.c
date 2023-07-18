@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * print_sqaure - Function that prints a sqaure followed by a new line
+ * print_square - Function that prints a sqaure followed by a new line
  * @size: size of square
  *
  * Return: empty
  */
 
-void print_sqaure(int size)
+void print_square(int size)
 {
 	int x, y;
 
