@@ -3,6 +3,8 @@
 /**
  * print_sqaure - Function that prints a sqaure followed by a new line
  * @size: size of square
+ *
+ * Return: void
  */
 
 void print_sqaure(int size)
